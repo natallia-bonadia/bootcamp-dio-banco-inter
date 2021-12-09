@@ -1,0 +1,48 @@
+body {
+  font: 20px Arial, sans-serif;
+}
+
+h2 {
+  font-weight: 600;
+  font-size: 50px;
+  padding-bottom: 40px;
+}
+
+h5 {
+  font-weight: 600;
+  font-size: 25px;
+  padding-top: 30px;
+
+}
+
+.navbar {
+  background-color: #69db5a;
+}
+
+.quem-somos {
+  background-color: #ffcaa4;
+  color: rgb(71, 71, 71);
+}
+
+.margin {
+  padding: 50px 50px;
+}
+
+.margin-p {
+  padding-bottom: 20px;
+  font-size: 16px;
+}
+
+.parceiros {
+  background-color: #333;
+  color: white;
+}
+
+.bg-footer {
+  background-color: #333;
+  color: white;
+}
+
+dl
+{color:red}
+
