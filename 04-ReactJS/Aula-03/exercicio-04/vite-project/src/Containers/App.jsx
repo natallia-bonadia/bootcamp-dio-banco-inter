@@ -1,6 +1,6 @@
 import React from "react";
-import mock from './mock';
-import Button from './Components/Button'
+import mock from '../mock';
+import Button from '../Components/Button'
 
 const App = () => {
 
