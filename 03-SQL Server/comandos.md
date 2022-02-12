@@ -199,3 +199,10 @@ que está dentro do range de valor
 
 <!-- not between -->
 que não está dentro do range de valor
+
+<!-- ltrim -->
+retira os espaços a esquerda do varchar
+
+<!-- like 'Dart%' ou 'Vader%' ou '%Vader%' -->
+pesquisa por Dart... por ...Vader por ...Vader...
+
